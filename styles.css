@@ -1,46 +1,12 @@
-#dish1{
-	height:100px; 
-	width:100px;
+body{ 
+	background-color: orange; 	
+	text-align: center;
+	font-family: 'Oxygen', sans-serif;
 }
 
-#dish2{
-	height:100px; 
-	width:100px;
-}
-#dish3{
-	height:100px;
-	width:100px;
-}
-#dish4{
-	height:100px;
-	width:100px;
-}
-#dish5{
-	height:100px; 
-	width:100px;
-}
-#dish6{
-	height:100px; 
-	width:100px;
-}
-
-#side1{
-	height:100px; 
-	width:100px;
-}
-#side2{
-	height:100px; 
-	width:100px;
-}
-#side3{
-	height:100px; 
-	width:100px;
-}
-#side4{
-	height:100px; 
-	width:100px;
-}
-#side5{
-	height:100px;
-	width:100px;
+.class1{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
 }
